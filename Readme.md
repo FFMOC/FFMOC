@@ -27,9 +27,8 @@ Currently building my portfolio on the way to **Data Science / ML Engineering**.
 
 ---
 
-## 📫 Contact
-- Telegram: [@your_username](https://t.me/your_username)  
-- Email: your.email@example.com  
+## 📫 Contact 
+- Email: ffmoc.dev@gmail.com  
 
 ---
 
