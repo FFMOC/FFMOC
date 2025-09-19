@@ -33,3 +33,5 @@ Currently building my portfolio on the way to **Data Science / ML Engineering**.
 ---
 
 ⭐️ From [FFMOC](https://github.com/FFMOC)
+
+<a href="https://freelancehunt.com/freelancer/Kosrtohlodov.html?from=shield&r=NkGEA" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1777835/type/rating?style=flat&lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
