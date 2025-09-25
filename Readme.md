@@ -1,37 +1,41 @@
-# Hi there 👋
+# 👋 Hi, I'm FFMOC
 
-I’m **Stas** — a Python developer passionate about automation, data scraping, and building practical tools.  
-Currently building my portfolio on the way to **Data Science / ML Engineering**.
-
----
-
-## 🔧 Tech Stack
-- **Languages & Tools:** Python, Requests, BeautifulSoup, Playwright, Telebot, OpenPyXL  
-- **Skills:** Web scraping, Data parsing, CLI utilities, Telegram bots, Excel automation  
-- **Currently learning:** Data analysis, Pandas, NumPy, Scikit-learn  
+**Python developer** focused on automation, Telegram bots, and Web3 (blockchain).  
+I build tools that make routine tasks faster, easier, and more reliable.
 
 ---
 
-## 📌 Featured Projects
-- [Quotes Scraper](https://github.com/FFMOC/quotes-scraper) — Simple scraper for quotes (Requests + BeautifulSoup).  
-- [CLI Books Scraper](https://github.com/FFMOC/cli-books-scraper) — Command-line scraper with logging & CSV export.  
-- [Telegram Quote Bot](https://github.com/FFMOC/bot-hello) — Telegram bot sending random quotes from CSV.  
-- [CSFloat Price Checker](https://github.com/FFMOC/csfloat-price-checker) — Automation script with Playwright + Excel highlighting.  
+## 🔥 Highlighted Projects
+
+- [**BSC Token Balance Checker Bot**](https://github.com/FFMOC/bsc-balance-check-bot)  
+  Telegram bot (EN/UA) to check BEP-20 token balances on Binance Smart Chain.  
+  Upload `.txt` with wallet addresses → send token contract → bot streams balances.  
+  *Tech:* Python, Web3.py, python-telegram-bot, asyncio, dotenv  
+  <img src="https://raw.githubusercontent.com/FFMOC/bsc-balance-check-bot/main/docs/screenshot-1.png" width="400">
+
+- [**Other Projects**](https://github.com/FFMOC?tab=repositories)  
+  Smaller experiments with bots, scrapers, and automation.
 
 ---
 
-## 🎯 Goals
-- Build 7–8 strong portfolio projects.  
-- Start freelancing on **Upwork / Freelancehunt**.  
-- Move step by step from Automation → Data Analyst → Data Engineer → Data Scientist → ML Engineer.  
+## 🛠 Tech Stack
+- **Languages**: Python, SQL, Pascal (for teaching), Bash  
+- **Libraries & Tools**: Web3.py, python-telegram-bot, asyncio, BeautifulSoup, Selenium  
+- **Domains**: Telegram bots, blockchain automation, data parsing, educational software  
+- **Other**: Git, Docker, Linux
 
 ---
 
-## 📫 Contact 
-- Email: ffmoc.dev@gmail.com  
+## 🌱 Current Focus
+- Expanding Web3 + blockchain automation projects  
+- Building portfolio of pet projects for freelance  
+- Experimenting with multichain token monitoring bots
 
 ---
 
-⭐️ From [FFMOC](https://github.com/FFMOC)
+## 📬 Contact
+- **GitHub:** [FFMOC](https://github.com/FFMOC)
 
-<a href="https://freelancehunt.com/freelancer/Kosrtohlodov.html?from=shield&r=NkGEA" target="_blank"><img src="https://freelancehunt.com/shields/display/id/1777835/type/rating?style=flat&lang=uk" alt="Freelancehunt — простий та чесний фриланс"></a>
+---
+
+⭐️ *Pinned projects show my recent work. Check them out!*  
